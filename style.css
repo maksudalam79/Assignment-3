@@ -1,3 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
 .back {
     filter: brightness(60%);
 }
@@ -16,6 +21,7 @@
     margin-top: 45px;
     font-size: 25px;
     font-weight: 700;
+
 }
 
 .register button:hover {
