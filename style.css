@@ -5,3 +5,28 @@
 .image img {
     height: 175px;
 }
+
+.register button {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border: none;
+    color: #0B5ED7;
+    margin-top: 45px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.register button:hover {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border: none;
+    color: #ffffff;
+    margin-top: 45px;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: black;
+}
